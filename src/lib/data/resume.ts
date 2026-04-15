@@ -126,7 +126,7 @@ export const projects: Project[] = [
 
 export const skills: Skills = {
 	languages: ['Python', 'Java', 'JavaScript', 'SQL'],
-	frontend: ['HTML', 'CSS', 'React', 'Tailwind CSS'],
+	frontend: ['HTML', 'CSS', 'React', 'Svelte', 'Tailwind CSS'],
 	backend: ['Django', 'Node.js', 'Express.js'],
 	databases: ['PostgreSQL', 'MySQL', 'MongoDB'],
 	tools: ['Git', 'Postman', 'VS Code']
